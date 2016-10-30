@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99996 (MiKTeX 2.9 64-bit) (preloaded format=xelatex 2016.8.17)  29 OCT 2016 23:59
+This is XeTeX, Version 3.14159265-2.6-0.99996 (MiKTeX 2.9 64-bit) (preloaded format=xelatex 2016.8.17)  30 OCT 2016 15:12
 entering extended mode
 **./CV_Yin.tex
 (CV_Yin.tex
@@ -912,17 +912,17 @@ Package marginnote Info: right page because not two side mode on input line 117
 .
 Package marginnote Info: xpos seems to be 100.01144pt,
 (marginnote)             \marginnoteleftadjust ignored on input line 117.
-Package marginnote Info: Margin note 2.2 is on absolute page 2
-(marginnote)              on input line 118.
-Package marginnote Info: right page because not two side mode on input line 118
-.
-Package marginnote Info: xpos seems to be 100.01144pt,
-(marginnote)             \marginnoteleftadjust ignored on input line 118.
 
-Underfull \hbox (badness 10000) in paragraph at lines 117--119
+Underfull \hbox (badness 10000) in paragraph at lines 117--118
 
  []
 
+Package marginnote Info: Margin note 2.2 is on absolute page 2
+(marginnote)              on input line 121.
+Package marginnote Info: right page because not two side mode on input line 121
+.
+Package marginnote Info: xpos seems to be 100.01144pt,
+(marginnote)             \marginnoteleftadjust ignored on input line 121.
 Package marginnote Info: Margin note 2.3 is on absolute page 2
 (marginnote)              on input line 122.
 Package marginnote Info: right page because not two side mode on input line 122
