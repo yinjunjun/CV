@@ -1,4 +1,4 @@
-This is LuaTeX, Version 0.95.0 (TeX Live 2016)  (format=lualatex 2016.12.26)  1 MAY 2017 01:16
+This is LuaTeX, Version 0.95.0 (TeX Live 2016)  (format=lualatex 2016.12.26)  1 MAY 2017 01:20
  restricted system commands enabled.
 **CV_Yin.tex
 (./CV_Yin.tex
@@ -152,10 +152,9 @@ Package: luaotfload 2016/06/16 v2.7 OpenType layout system
 Lua module: luaotfload-main 2016/06/16 2.70003 OpenType layout system.
 Lua module: lualibs 2016-04-06 2.4 ConTeXt Lua standard libraries.
 Lua module: lualibs-extended 2016-04-06 2.4 ConTeXt Lua libraries -- extended co
-llection.(created cache path: /Users/jyin/Library/texlive/2016/texmf-var)(using 
-write cache: /Users/jyin/Library/texlive/2016/texmf-var/luatex-cache/generic)(us
-ing read cache: /usr/local/texlive/2016/texmf-var/luatex-cache/generic /Users/jy
-in/Library/texlive/2016/texmf-var/luatex-cache/generic)
+llection.(using write cache: /Users/jyin/Library/texlive/2016/texmf-var/luatex-c
+ache/generic)(using read cache: /usr/local/texlive/2016/texmf-var/luatex-cache/g
+eneric /Users/jyin/Library/texlive/2016/texmf-var/luatex-cache/generic)
 luaotfload | conf : Root cache directory is /Users/jyin/Library/texlive/2016/tex
 mf-var/luatex-cache/generic/names.
 luaotfload | init : Loading fontloader “fontloader-2016-06-16.lua” from kpse
@@ -181,7 +180,7 @@ Inserting `luaotfload.aux.set_capheight' at position 3 in `luaotfload.patch_font
 '.
 Inserting `luaotfload.rewrite_fontname' at position 4 in `luaotfload.patch_font'
 .
-luaotfload | main : initialization completed in 0.151 seconds)
+luaotfload | main : initialization completed in 0.139 seconds)
 Lua module: fontspec 2016/02/01 2.5a Advanced font selection for LuaLaTeX.
 (/usr/local/texlive/2016/texmf-dist/tex/latex/fontspec/fontspec-luatex.sty
 Package: fontspec-luatex 2016/02/01 v2.5a Font selection for XeLaTeX and LuaLaTe
@@ -205,14 +204,11 @@ LaTeX Font Info:    Try loading font information for EU2+lmr on input line 105.
 (/usr/local/texlive/2016/texmf-dist/tex/latex/euenc/eu2lmr.fd
 File: eu2lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
-luaotfload | db : Font names database not found, generating new one.
-luaotfload | db : This can take several minutes; please be patient.(compiling lu
-c: /usr/local/texlive/2016/texmf-var/luatex-cache/generic/fonts/otl/lmroman10-re
-gular.luc)(compiling luc: /Users/jyin/Library/texlive/2016/texmf-var/luatex-cach
-e/generic/fonts/otl/lmroman10-regular.luc)(save: /Users/jyin/Library/texlive/201
-6/texmf-var/luatex-cache/generic/fonts/otl/lmroman10-regular.lua)(save: /Users/j
-yin/Library/texlive/2016/texmf-var/luatex-cache/generic/fonts/otl/lmroman10-regu
-lar.luc))
+luaotfload | db : Font names database loaded from /Users/jyin/Library/texlive/20
+16/texmf-var/luatex-cache/generic/names/luaotfload-names.luc(compiling luc: /usr
+/local/texlive/2016/texmf-var/luatex-cache/generic/fonts/otl/lmroman10-regular.l
+uc)(load luc: /Users/jyin/Library/texlive/2016/texmf-var/luatex-cache/generic/fo
+nts/otl/lmroman10-regular.luc))
 (/usr/local/texlive/2016/texmf-dist/tex/xelatex/xunicode/xunicode.sty
 File: xunicode.sty 2011/09/09 v0.981 provides access to latin accents and many o
 ther characters in Unicode lower plane
@@ -220,36 +216,26 @@ ther characters in Unicode lower plane
 (/usr/local/texlive/2016/texmf-dist/tex/latex/tipa/t3enc.def
 File: t3enc.def 2001/12/31 T3 encoding
 (compiling luc: /usr/local/texlive/2016/texmf-var/luatex-cache/generic/fonts/otl
-/lmromanslant10-regular.luc)(compiling luc: /Users/jyin/Library/texlive/2016/tex
-mf-var/luatex-cache/generic/fonts/otl/lmromanslant10-regular.luc)(save: /Users/j
-yin/Library/texlive/2016/texmf-var/luatex-cache/generic/fonts/otl/lmromanslant10
--regular.lua)(save: /Users/jyin/Library/texlive/2016/texmf-var/luatex-cache/gene
-ric/fonts/otl/lmromanslant10-regular.luc)(compiling luc: /usr/local/texlive/2016
-/texmf-var/luatex-cache/generic/fonts/otl/lmroman10-italic.luc)(compiling luc: /
-Users/jyin/Library/texlive/2016/texmf-var/luatex-cache/generic/fonts/otl/lmroman
-10-italic.luc)(save: /Users/jyin/Library/texlive/2016/texmf-var/luatex-cache/gen
-eric/fonts/otl/lmroman10-italic.lua)(save: /Users/jyin/Library/texlive/2016/texm
-f-var/luatex-cache/generic/fonts/otl/lmroman10-italic.luc)(compiling luc: /usr/l
-ocal/texlive/2016/texmf-var/luatex-cache/generic/fonts/otl/lmroman10-bold.luc)(c
-ompiling luc: /Users/jyin/Library/texlive/2016/texmf-var/luatex-cache/generic/fo
-nts/otl/lmroman10-bold.luc)(save: /Users/jyin/Library/texlive/2016/texmf-var/lua
-tex-cache/generic/fonts/otl/lmroman10-bold.lua)(save: /Users/jyin/Library/texliv
-e/2016/texmf-var/luatex-cache/generic/fonts/otl/lmroman10-bold.luc)
+/lmromanslant10-regular.luc)(load luc: /Users/jyin/Library/texlive/2016/texmf-va
+r/luatex-cache/generic/fonts/otl/lmromanslant10-regular.luc)(compiling luc: /usr
+/local/texlive/2016/texmf-var/luatex-cache/generic/fonts/otl/lmroman10-italic.lu
+c)(load luc: /Users/jyin/Library/texlive/2016/texmf-var/luatex-cache/generic/fon
+ts/otl/lmroman10-italic.luc)(compiling luc: /usr/local/texlive/2016/texmf-var/lu
+atex-cache/generic/fonts/otl/lmroman10-bold.luc)(load luc: /Users/jyin/Library/t
+exlive/2016/texmf-var/luatex-cache/generic/fonts/otl/lmroman10-bold.luc)
 LaTeX Font Info:    Try loading font information for EU2+lmss on input line 357.
 
 
 (/usr/local/texlive/2016/texmf-dist/tex/latex/euenc/eu2lmss.fd
 File: eu2lmss.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )(compiling luc: /usr/local/texlive/2016/texmf-var/luatex-cache/generic/fonts/ot
-l/lmsans10-regular.luc)(compiling luc: /Users/jyin/Library/texlive/2016/texmf-va
-r/luatex-cache/generic/fonts/otl/lmsans10-regular.luc)(save: /Users/jyin/Library
-/texlive/2016/texmf-var/luatex-cache/generic/fonts/otl/lmsans10-regular.lua)(sav
-e: /Users/jyin/Library/texlive/2016/texmf-var/luatex-cache/generic/fonts/otl/lms
-ans10-regular.luc))
+l/lmsans10-regular.luc)(load luc: /Users/jyin/Library/texlive/2016/texmf-var/lua
+tex-cache/generic/fonts/otl/lmsans10-regular.luc))
 \tipaTiiicode=\count117
 \tipasavetokens=\toks14
 \tipachecktokens=\toks15
- (/usr/local/texlive/2016/texmf-dist/tex/latex/graphics/graphicx.sty
+
+(/usr/local/texlive/2016/texmf-dist/tex/latex/graphics/graphicx.sty
 Package: graphicx 2014/10/28 v1.0g Enhanced LaTeX Graphics (DPC,SPQR)
 
 (/usr/local/texlive/2016/texmf-dist/tex/latex/graphics/keyval.sty
@@ -469,11 +455,11 @@ Package xltxtra Warning:
  ABORTING LOADING.
 
 )(compiling luc: /usr/local/texlive/2016/texmf-var/luatex-cache/generic/fonts/ot
-l/linlibertine-r.luc)(compiling luc: /Users/jyin/Library/texlive/2016/texmf-var/
-luatex-cache/generic/fonts/otl/linlibertine-r.luc)(save: /Users/jyin/Library/tex
-live/2016/texmf-var/luatex-cache/generic/fonts/otl/linlibertine-r.lua)(save: /Us
-ers/jyin/Library/texlive/2016/texmf-var/luatex-cache/generic/fonts/otl/linlibert
-ine-r.luc)
+l/linlibertine-r.luc)(load luc: /Users/jyin/Library/texlive/2016/texmf-var/luate
+x-cache/generic/fonts/otl/linlibertine-r.luc)(save: /Users/jyin/Library/texlive/
+2016/texmf-var/luatex-cache/generic/fonts/otl/linlibertine-r.lua)(save: /Users/j
+yin/Library/texlive/2016/texmf-var/luatex-cache/generic/fonts/otl/linlibertine-r
+.luc)
 *************************************************
 * fontspec warning: "no-mapping-ligtex"
 * 
@@ -482,21 +468,13 @@ ine-r.luc)
 *************************************************
 \g__fontspec_family_LinLibertine_R.otf_int=\count125
 (compiling luc: /usr/local/texlive/2016/texmf-var/luatex-cache/generic/fonts/otl
-/linlibertine-rb.luc)(compiling luc: /Users/jyin/Library/texlive/2016/texmf-var/
-luatex-cache/generic/fonts/otl/linlibertine-rb.luc)(save: /Users/jyin/Library/te
-xlive/2016/texmf-var/luatex-cache/generic/fonts/otl/linlibertine-rb.lua)(save: /
-Users/jyin/Library/texlive/2016/texmf-var/luatex-cache/generic/fonts/otl/linlibe
-rtine-rb.luc)(compiling luc: /usr/local/texlive/2016/texmf-var/luatex-cache/gene
-ric/fonts/otl/linlibertine-ri.luc)(compiling luc: /Users/jyin/Library/texlive/20
-16/texmf-var/luatex-cache/generic/fonts/otl/linlibertine-ri.luc)(save: /Users/jy
-in/Library/texlive/2016/texmf-var/luatex-cache/generic/fonts/otl/linlibertine-ri
-.lua)(save: /Users/jyin/Library/texlive/2016/texmf-var/luatex-cache/generic/font
-s/otl/linlibertine-ri.luc)(compiling luc: /usr/local/texlive/2016/texmf-var/luat
-ex-cache/generic/fonts/otl/linlibertine-rbi.luc)(compiling luc: /Users/jyin/Libr
-ary/texlive/2016/texmf-var/luatex-cache/generic/fonts/otl/linlibertine-rbi.luc)(
-save: /Users/jyin/Library/texlive/2016/texmf-var/luatex-cache/generic/fonts/otl/
-linlibertine-rbi.lua)(save: /Users/jyin/Library/texlive/2016/texmf-var/luatex-ca
-che/generic/fonts/otl/linlibertine-rbi.luc)
+/linlibertine-rb.luc)(load luc: /Users/jyin/Library/texlive/2016/texmf-var/luate
+x-cache/generic/fonts/otl/linlibertine-rb.luc)(compiling luc: /usr/local/texlive
+/2016/texmf-var/luatex-cache/generic/fonts/otl/linlibertine-ri.luc)(load luc: /U
+sers/jyin/Library/texlive/2016/texmf-var/luatex-cache/generic/fonts/otl/linliber
+tine-ri.luc)(compiling luc: /usr/local/texlive/2016/texmf-var/luatex-cache/gener
+ic/fonts/otl/linlibertine-rbi.luc)(load luc: /Users/jyin/Library/texlive/2016/te
+xmf-var/luatex-cache/generic/fonts/otl/linlibertine-rbi.luc)
 .................................................
 . fontspec info: "defining-font"
 . 
@@ -535,11 +513,9 @@ onum;+ss01;+smcp;"
 (save: /Users/jyin/Library/texlive/2016/texmf-var/luatex-cache/generic/fonts/otl
 /linlibertine-r.lua)(save: /Users/jyin/Library/texlive/2016/texmf-var/luatex-cac
 he/generic/fonts/otl/linlibertine-r.luc)(compiling luc: /usr/local/texlive/2016/
-texmf-var/luatex-cache/generic/fonts/otl/dejavusansmono.luc)(compiling luc: /Use
-rs/jyin/Library/texlive/2016/texmf-var/luatex-cache/generic/fonts/otl/dejavusans
-mono.luc)(save: /Users/jyin/Library/texlive/2016/texmf-var/luatex-cache/generic/
-fonts/otl/dejavusansmono.lua)(save: /Users/jyin/Library/texlive/2016/texmf-var/l
-uatex-cache/generic/fonts/otl/dejavusansmono.luc)
+texmf-var/luatex-cache/generic/fonts/otl/dejavusansmono.luc)(load luc: /Users/jy
+in/Library/texlive/2016/texmf-var/luatex-cache/generic/fonts/otl/dejavusansmono.
+luc)
 *************************************************
 * fontspec warning: "no-mapping-ligtex"
 * 
@@ -1289,39 +1265,39 @@ sys-tem for Multi-
  []
 
 [5]
-Underfull \hbox (badness 10000) in paragraph at lines 227--237
+Underfull \hbox (badness 10000) in paragraph at lines 228--238
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 238--245
+Underfull \hbox (badness 10000) in paragraph at lines 239--246
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 246--253
+Underfull \hbox (badness 10000) in paragraph at lines 247--254
 
  []
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 265.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 266.
 [6]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 265.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 266.
  (./CV_Yin.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 265.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 265.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 266.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 266.
 Package rerunfilecheck Info: File `CV_Yin.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 265.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 266.
 )
 
 Here is how much of LuaTeX's memory you used:
- 19482 strings out of 495118
+ 19481 strings out of 495118
  100000,460012 words of node,token memory allocated
  812 words of node memory still in use:
    4 hlist, 1 vlist, 1 rule, 49 glue, 26 attribute, 49 glue_spec, 26 attribute_l
 ist, 1 write nodes
    avail lists: 2:493,3:135,4:27,5:453,6:3888,7:935,8:38,9:230,10:10,11:387
- 22615 multiletter control sequences out of 65536+600000
+ 22614 multiletter control sequences out of 65536+600000
  48 fonts using 8969415 bytes
  50i,9n,65p,401b,330s stack positions out of 5000i,500n,10000p,200000b,100000s
 </usr/local/texlive/2016/texmf-dist/fonts/opentype/public/libertine/LinLibertine
@@ -1331,7 +1307,7 @@ ine/LinLibertine_R.otf></usr/local/texlive/2016/texmf-dist/fonts/type1/public/am
 sfonts/cm/cmmi10.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsf
 onts/cm/cmr10.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfont
 s/cm/cmsy10.pfb>
-Output written on CV_Yin.pdf (6 pages, 72340 bytes).
+Output written on CV_Yin.pdf (6 pages, 72390 bytes).
 
 PDF statistics: 91 PDF objects out of 1000 (max. 8388607)
  70 compressed objects within 1 object stream
