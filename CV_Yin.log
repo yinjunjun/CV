@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99996 (MiKTeX 2.9.6210 64-bit) (preloaded format=xelatex 2016.8.17)  30 MAY 2017 13:03
+This is XeTeX, Version 3.14159265-2.6-0.99996 (MiKTeX 2.9.6210 64-bit) (preloaded format=xelatex 2016.8.17)  2 JUN 2017 12:08
 entering extended mode
 **./CV_Yin.tex
 (CV_Yin.tex
@@ -1010,16 +1010,11 @@ Package marginnote Info: right page because not two side mode on input line 136
 Package marginnote Info: xpos seems to be 100.01144pt,
 (marginnote)             \marginnoteleftadjust ignored on input line 136.
 Package marginnote Info: Margin note 2.2 is on absolute page 2
-(marginnote)              on input line 137.
-Package marginnote Info: right page because not two side mode on input line 137
+(marginnote)              on input line 140.
+Package marginnote Info: right page because not two side mode on input line 140
 .
 Package marginnote Info: xpos seems to be 100.01144pt,
-(marginnote)             \marginnoteleftadjust ignored on input line 137.
-
-Underfull \hbox (badness 10000) in paragraph at lines 136--138
-
- []
-
+(marginnote)             \marginnoteleftadjust ignored on input line 140.
 Package marginnote Info: Margin note 2.3 is on absolute page 2
 (marginnote)              on input line 141.
 Package marginnote Info: right page because not two side mode on input line 141
@@ -1032,7 +1027,7 @@ Package marginnote Info: right page because not two side mode on input line 142
 .
 Package marginnote Info: xpos seems to be 100.01144pt,
 (marginnote)             \marginnoteleftadjust ignored on input line 142.
-Package marginnote Info: Margin note 2.5 is on absolute page 3
+Package marginnote Info: Margin note 2.5 is on absolute page 2
 (marginnote)              on input line 143.
 Package marginnote Info: right page because not two side mode on input line 143
 .
@@ -1081,9 +1076,9 @@ Package marginnote Info: right page because not two side mode on input line 150
 Package marginnote Info: xpos seems to be 100.01144pt,
 (marginnote)             \marginnoteleftadjust ignored on input line 150.
 
-Overfull \hbox (11.90512pt too wide) in paragraph at lines 140--151
-\TU/LinLibertine_R.otf(0)/m/n/10.95 nal of Geographical Information Science., 3
-1(7), pp. 1-21, DOI:10.1080/13658816.2017.1282615 
+Overfull \hbox (56.2964pt too wide) in paragraph at lines 139--151
+\TU/LinLibertine_R.otf(0)/m/n/10.95 Journal of Geographical Information Science
+., 31(7), pp. 1293-1313, DOI:10.1080/13658816.2017.1282615 
  []
 
 [2]
@@ -1129,7 +1124,7 @@ Package marginnote Info: right page because not two side mode on input line 160
 .
 Package marginnote Info: xpos seems to be 100.01144pt,
 (marginnote)             \marginnoteleftadjust ignored on input line 160.
-Package marginnote Info: Margin note 3.8 is on absolute page 4
+Package marginnote Info: Margin note 3.8 is on absolute page 3
 (marginnote)              on input line 161.
 Package marginnote Info: right page because not two side mode on input line 161
 .
@@ -1321,9 +1316,8 @@ Underfull \hbox (badness 10000) in paragraph at lines 249--256
 
  []
 
-[6]
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 268.
- [7]
+[6] [7]
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 268.
  (CV_Yin.aux)
 Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 268.
@@ -1341,6 +1335,6 @@ Here is how much of TeX's memory you used:
  24909 multiletter control sequences out of 15000+200000
  7518 words of font info for 45 fonts, out of 3000000 for 9000
  1328 hyphenation exceptions out of 8191
- 41i,9n,80p,10348b,378s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 41i,9n,80p,10348b,323s stack positions out of 5000i,500n,10000p,200000b,50000s
 
 Output written on CV_Yin.pdf (7 pages).
