@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99996 (MiKTeX 2.9.6210 64-bit) (preloaded format=xelatex 2016.8.17)  7 AUG 2017 11:11
+This is XeTeX, Version 3.14159265-2.6-0.99996 (MiKTeX 2.9.6210 64-bit) (preloaded format=xelatex 2016.8.17)  13 AUG 2017 00:06
 entering extended mode
 **./CV_Yin.tex
 (CV_Yin.tex
@@ -1335,37 +1335,37 @@ Package marginnote Info: right page because not two side mode on input line 204
 Package marginnote Info: xpos seems to be 100.01144pt,
 (marginnote)             \marginnoteleftadjust ignored on input line 204.
  [5]
-Overfull \hbox (0.40794pt too wide) in paragraph at lines 220--232
+Overfull \hbox (0.40794pt too wide) in paragraph at lines 221--233
 \TU/LinLibertine_R.otf(0)/m/n/10.95 Reviewer for International Journal of Geogr
 aphical Information Science (IJGIS) (2010, 2014,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 237--247
+Underfull \hbox (badness 10000) in paragraph at lines 238--248
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 248--255
+Underfull \hbox (badness 10000) in paragraph at lines 249--256
 
  []
 
 [6]
-Underfull \hbox (badness 10000) in paragraph at lines 256--263
+Underfull \hbox (badness 10000) in paragraph at lines 257--264
 
  []
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 275.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 276.
 [7]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 275.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 276.
  (CV_Yin.aux)
-Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 275.
-Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 275.
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 276.
+Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 276.
 
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 275.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 276.
  ) 
 Here is how much of TeX's memory you used:
  21624 strings out of 428409
