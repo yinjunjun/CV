@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99996 (MiKTeX 2.9.6210 64-bit) (preloaded format=xelatex 2016.8.17)  10 NOV 2017 16:45
+This is XeTeX, Version 3.14159265-2.6-0.99996 (MiKTeX 2.9.6210 64-bit) (preloaded format=xelatex 2016.8.17)  3 JAN 2018 16:26
 entering extended mode
 **./CV_Yin.tex
 (CV_Yin.tex
@@ -1037,7 +1037,7 @@ Package marginnote Info: right page because not two side mode on input line 143
 .
 Package marginnote Info: xpos seems to be 100.01144pt,
 (marginnote)             \marginnoteleftadjust ignored on input line 143.
-Package marginnote Info: Margin note 2.3 is on absolute page 3
+Package marginnote Info: Margin note 2.3 is on absolute page 2
 (marginnote)              on input line 144.
 Package marginnote Info: right page because not two side mode on input line 144
 .
@@ -1104,6 +1104,13 @@ Package marginnote Info: right page because not two side mode on input line 154
 Package marginnote Info: xpos seems to be 100.01144pt,
 (marginnote)             \marginnoteleftadjust ignored on input line 154.
 
+Overfull \hbox (37.10109pt too wide) in paragraph at lines 141--155
+\TU/LinLibertine_R.otf(0)/m/it/10.95 Journal of Geographical Information Scienc
+e\TU/LinLibertine_R.otf(0)/m/n/10.95 , 32(3), pp. 425-449, DOI:10.1080/13658816
+.2017.1406943 
+ []
+
+
 Overfull \hbox (47.28458pt too wide) in paragraph at lines 141--155
 \TU/LinLibertine_R.otf(0)/m/it/10.95 Journal of Geographical Information Scienc
 e\TU/LinLibertine_R.otf(0)/m/n/10.95 , 31(7), pp. 1293-1313, DOI:10.1080/136588
@@ -1142,7 +1149,7 @@ Package marginnote Info: right page because not two side mode on input line 161
 .
 Package marginnote Info: xpos seems to be 100.01144pt,
 (marginnote)             \marginnoteleftadjust ignored on input line 161.
-Package marginnote Info: Margin note 3.5 is on absolute page 4
+Package marginnote Info: Margin note 3.5 is on absolute page 3
 (marginnote)              on input line 162.
 Package marginnote Info: right page because not two side mode on input line 162
 .
@@ -1215,7 +1222,7 @@ Package marginnote Info: right page because not two side mode on input line 177
 .
 Package marginnote Info: xpos seems to be 100.01144pt,
 (marginnote)             \marginnoteleftadjust ignored on input line 177.
-Package marginnote Info: Margin note 4.3 is on absolute page 5
+Package marginnote Info: Margin note 4.3 is on absolute page 4
 (marginnote)              on input line 178.
 Package marginnote Info: right page because not two side mode on input line 178
 .
@@ -1324,7 +1331,7 @@ Package marginnote Info: right page because not two side mode on input line 207
 .
 Package marginnote Info: xpos seems to be 100.01144pt,
 (marginnote)             \marginnoteleftadjust ignored on input line 207.
-Package marginnote Info: Margin note 5.14 is on absolute page 6
+Package marginnote Info: Margin note 5.14 is on absolute page 5
 (marginnote)              on input line 208.
 Package marginnote Info: right page because not two side mode on input line 208
 .
@@ -1378,7 +1385,7 @@ Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 288.
 Here is how much of TeX's memory you used:
  21625 strings out of 428409
  385861 string characters out of 3160632
- 463624 words of memory out of 3000000
+ 462624 words of memory out of 3000000
  24912 multiletter control sequences out of 15000+200000
  7518 words of font info for 45 fonts, out of 3000000 for 9000
  1328 hyphenation exceptions out of 8191
