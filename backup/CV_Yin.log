@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.999991 (MiKTeX 2.9.7000 64-bit) (preloaded format=xelatex 2019.6.18)  13 MAR 2020 12:07
+This is XeTeX, Version 3.14159265-2.6-0.999991 (MiKTeX 2.9.7000 64-bit) (preloaded format=xelatex 2019.6.18)  15 DEC 2019 14:06
 entering extended mode
 **./CV_Yin.tex
 (CV_Yin.tex
@@ -851,15 +851,15 @@ Package marginnote Info: right page because not two side mode on input line 150
 .
 Package marginnote Info: xpos seems to be 100.01144pt on input line 150.
 Package marginnote Info: Margin note 3.4 is on absolute page 3 on input line 15
-3.
-Package marginnote Info: right page because not two side mode on input line 153
+1.
+Package marginnote Info: right page because not two side mode on input line 151
 .
-Package marginnote Info: xpos seems to be 100.01144pt on input line 153.
+Package marginnote Info: xpos seems to be 100.01144pt on input line 151.
 Package marginnote Info: Margin note 3.5 is on absolute page 3 on input line 15
 4.
 Package marginnote Info: right page because not two side mode on input line 154
 .
-Package marginnote Info: xpos seems to be 100.01144pt on input line 154.
+Package marginnote Info: xpos seems to be 103.02847pt on input line 154.
 Package marginnote Info: Margin note 3.6 is on absolute page 3 on input line 15
 5.
 Package marginnote Info: right page because not two side mode on input line 155
@@ -926,7 +926,7 @@ Package marginnote Info: right page because not two side mode on input line 167
 .
 Package marginnote Info: xpos seems to be 100.01144pt on input line 167.
 
-Overfull \hbox (6.1381pt too wide) in paragraph at lines 152--168
+Overfull \hbox (6.1381pt too wide) in paragraph at lines 153--168
 \TU/LinLibertine_R.otf(0)/m/n/10.95 Spatial Vector Data Model for Column-orient
 ed Databases. \TU/LinLibertine_R.otf(0)/m/it/10.95 International Journal of Dat
 abase
@@ -1180,21 +1180,35 @@ n Contest: Second prize\TU/LinLibertine_R.otf(0)/m/n/10.95 :Embedded system for
  []
 
 
-Overfull \hbox (4.0296pt too wide) in paragraph at lines 241--242
+Overfull \hbox (4.0296pt too wide) in paragraph at lines 240--241
 \TU/LinLibertine_R.otf(0)/m/n/10.95 American Meetings of the Regional Science A
 ssociation International (NARSC), Pitts-
  []
 
-[7] [8]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 305.
- [9]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 305.
+[7]
+Underfull \hbox (badness 10000) in paragraph at lines 292--300
+
+ []
+
+[8]
+Underfull \hbox (badness 10000) in paragraph at lines 301--308
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 309--318
+
+ []
+
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 338.
+[9]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 338.
  (CV_Yin.aux)
-Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 305.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 305.
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 338.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 338.
 Package rerunfilecheck Info: File `CV_Yin.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 305.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 338.
  ) 
 Here is how much of TeX's memory you used:
  24015 strings out of 427748
