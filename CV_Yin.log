@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.999991 (MiKTeX 2.9.7000 64-bit) (preloaded format=xelatex 2019.6.18)  3 OCT 2020 18:32
+This is XeTeX, Version 3.14159265-2.6-0.999991 (MiKTeX 2.9.7000 64-bit) (preloaded format=xelatex 2019.6.18)  29 OCT 2020 18:28
 entering extended mode
 **./CV_Yin.tex
 (CV_Yin.tex
@@ -1214,21 +1214,21 @@ n Contest: Second prize\TU/LinLibertine_R.otf(0)/m/n/10.95 :Embedded system for
  []
 
 [7]
-Overfull \hbox (4.0296pt too wide) in paragraph at lines 249--250
+Overfull \hbox (4.0296pt too wide) in paragraph at lines 253--254
 \TU/LinLibertine_R.otf(0)/m/n/10.95 American Meetings of the Regional Science A
 ssociation International (NARSC), Pitts-
  []
 
 [8]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 313.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 317.
  [9]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 313.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 317.
  (CV_Yin.aux)
-Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 313.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 313.
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 317.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 317.
 Package rerunfilecheck Info: File `CV_Yin.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 313.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 317.
  ) 
 Here is how much of TeX's memory you used:
  24021 strings out of 427748
