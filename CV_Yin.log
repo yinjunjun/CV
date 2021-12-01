@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.999991 (MiKTeX 2.9.7000 64-bit) (preloaded format=xelatex 2019.6.18)  5 NOV 2021 17:14
+This is XeTeX, Version 3.14159265-2.6-0.999991 (MiKTeX 2.9.7000 64-bit) (preloaded format=xelatex 2019.6.18)  1 DEC 2021 00:30
 entering extended mode
 **./CV_Yin.tex
 (CV_Yin.tex
@@ -758,6 +758,12 @@ Overfull \hbox (52.51501pt too wide) in paragraph at lines 64--65
  | 
  []
 
+
+Overfull \hbox (17.36308pt too wide) in paragraph at lines 107--110
+\TU/LinLibertine_R.otf(0)/m/n/10.95 putational Geography; Geo-Complexity and Hu
+man Mobility; Urban Computing; (Geo)Visual-
+ []
+
 Package marginnote Info: Margin note 1.1 is on absolute page 1 on input line 11
 4.
 Package marginnote Info: right page because not two side mode on input line 114
@@ -968,7 +974,7 @@ Package marginnote Info: Margin note 4.1 is on absolute page 4 on input line 18
 Package marginnote Info: right page because not two side mode on input line 180
 .
 Package marginnote Info: xpos seems to be 100.01144pt on input line 180.
-Package marginnote Info: Margin note 4.2 is on absolute page 5 on input line 18
+Package marginnote Info: Margin note 4.2 is on absolute page 4 on input line 18
 1.
 Package marginnote Info: right page because not two side mode on input line 181
 .
@@ -1093,7 +1099,7 @@ Package marginnote Info: Margin note 6.2 is on absolute page 6 on input line 20
 9.
 Package marginnote Info: right page because not two side mode on input line 209
 .
-Package marginnote Info: xpos seems to be 103.75684pt on input line 209.
+Package marginnote Info: xpos seems to be 100.01144pt on input line 209.
 
 Underfull \hbox (badness 10000) in paragraph at lines 208--210
 
@@ -1274,16 +1280,12 @@ Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 332.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 332.
 Package rerunfilecheck Info: File `CV_Yin.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E.
-
-
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
-
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 332.
  ) 
 Here is how much of TeX's memory you used:
  24029 strings out of 427748
  444075 string characters out of 3147389
- 561085 words of memory out of 3000000
+ 562085 words of memory out of 3000000
  27954 multiletter control sequences out of 15000+200000
  536313 words of font info for 60 fonts, out of 3000000 for 9000
  1328 hyphenation exceptions out of 8191
