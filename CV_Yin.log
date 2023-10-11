@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023) (preloaded format=xelatex 2023.4.19)  3 OCT 2023 16:17
+This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023) (preloaded format=xelatex 2023.4.19)  11 OCT 2023 14:02
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -821,7 +821,7 @@ Package marginnote Info: Margin note 3.22 is on absolute page 4 on input line 1
 Package marginnote Info: right page because not two side mode on input line 177
 .
 Package marginnote Info: xpos seems to be 100.01144pt on input line 177.
-Package marginnote Info: Margin note 3.23 is on absolute page 5 on input line 1
+Package marginnote Info: Margin note 3.23 is on absolute page 4 on input line 1
 78.
 Package marginnote Info: right page because not two side mode on input line 178
 .
@@ -846,11 +846,9 @@ Package marginnote Info: Margin note 3.27 is on absolute page 5 on input line 1
 Package marginnote Info: right page because not two side mode on input line 182
 .
 Package marginnote Info: xpos seems to be 100.01144pt on input line 182.
-Package marginnote Info: Margin note 3.28 is on absolute page 5 on input line 1
-83.
 Package marginnote Info: right page because not two side mode on input line 183
 .
-Package marginnote Info: xpos seems to be 100.01144pt on input line 183.
+Package marginnote Info: xpos seems to be \@mn@currxpos  on input line 183.
 
 Overfull \hbox (73.70694pt too wide) in paragraph at lines 160--184
 \TU/LinLibertine_R.otf(0)/m/n/10.95 learning, and big human mobility data. \TU/
@@ -925,7 +923,7 @@ Package marginnote Info: Margin note 5.9 is on absolute page 5 on input line 19
 Package marginnote Info: right page because not two side mode on input line 195
 .
 Package marginnote Info: xpos seems to be 100.01144pt on input line 195.
-Package marginnote Info: Margin note 5.10 is on absolute page 6 on input line 1
+Package marginnote Info: Margin note 5.10 is on absolute page 5 on input line 1
 96.
 Package marginnote Info: right page because not two side mode on input line 196
 .
@@ -990,7 +988,7 @@ Package marginnote Info: Margin note 5.22 is on absolute page 6 on input line 2
 Package marginnote Info: right page because not two side mode on input line 208
 .
 Package marginnote Info: xpos seems to be 100.01144pt on input line 208.
-Package marginnote Info: Margin note 5.23 is on absolute page 7 on input line 2
+Package marginnote Info: Margin note 5.23 is on absolute page 6 on input line 2
 09.
 Package marginnote Info: right page because not two side mode on input line 209
 .
@@ -1066,7 +1064,7 @@ Package marginnote Info: Margin note 7.11 is on absolute page 7 on input line 2
 Package marginnote Info: right page because not two side mode on input line 228
 .
 Package marginnote Info: xpos seems to be 100.01144pt on input line 228.
-Package marginnote Info: Margin note 7.12 is on absolute page 8 on input line 2
+Package marginnote Info: Margin note 7.12 is on absolute page 7 on input line 2
 29.
 Package marginnote Info: right page because not two side mode on input line 229
 .
@@ -1158,11 +1156,9 @@ Package marginnote Info: Margin note 8.16 is on absolute page 8 on input line 2
 Package marginnote Info: right page because not two side mode on input line 248
 .
 Package marginnote Info: xpos seems to be 100.01144pt on input line 248.
-Package marginnote Info: Margin note 8.17 is on absolute page 8 on input line 2
-51.
 Package marginnote Info: right page because not two side mode on input line 251
 .
-Package marginnote Info: xpos seems to be 100.01144pt on input line 251.
+Package marginnote Info: xpos seems to be \@mn@currxpos  on input line 251.
 [8]
 Package marginnote Info: Margin note 9.1 is on absolute page 9 on input line 26
 4.
@@ -1208,14 +1204,17 @@ ssociation International (NARSC), Pitts-
  []
 
 [9] [10] (./CV_Yin.aux)
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
 Package rerunfilecheck Info: File `CV_Yin.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 15293 strings out of 476683
- 291959 string characters out of 5804047
+ 15294 strings out of 476683
+ 291971 string characters out of 5804047
  1876018 words of memory out of 5000000
- 35357 multiletter control sequences out of 15000+600000
+ 35358 multiletter control sequences out of 15000+600000
  516335 words of font info for 70 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  72i,9n,100p,414b,385s stack positions out of 10000i,1000n,20000p,200000b,200000s
