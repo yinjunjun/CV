@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999995 (MiKTeX 23.12) (preloaded format=xelatex 2023.12.31)  31 DEC 2023 16:02
+This is XeTeX, Version 3.141592653-2.6-0.999995 (MiKTeX 23.12) (preloaded format=xelatex 2023.12.31)  1 JAN 2024 21:46
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1013,9 +1013,11 @@ Package marginnote Info: Margin note 5.25 is on absolute page 7 on input line 2
 Package marginnote Info: right page because not two side mode on input line 211
 .
 Package marginnote Info: xpos seems to be 100.01144pt on input line 211.
+Package marginnote Info: Margin note 5.26 is on absolute page 7 on input line 2
+12.
 Package marginnote Info: right page because not two side mode on input line 212
 .
-Package marginnote Info: xpos seems to be \@mn@currxpos  on input line 212.
+Package marginnote Info: xpos seems to be 100.01144pt on input line 212.
  [5] [6]
 Package marginnote Info: Margin note 7.1 is on absolute page 7 on input line 21
 4.
@@ -1067,12 +1069,12 @@ Package marginnote Info: Margin note 7.9 is on absolute page 7 on input line 22
 Package marginnote Info: right page because not two side mode on input line 227
 .
 Package marginnote Info: xpos seems to be 100.01144pt on input line 227.
-Package marginnote Info: Margin note 7.10 is on absolute page 7 on input line 2
+Package marginnote Info: Margin note 7.10 is on absolute page 8 on input line 2
 28.
 Package marginnote Info: right page because not two side mode on input line 228
 .
 Package marginnote Info: xpos seems to be 100.01144pt on input line 228.
-Package marginnote Info: Margin note 7.11 is on absolute page 7 on input line 2
+Package marginnote Info: Margin note 7.11 is on absolute page 8 on input line 2
 29.
 Package marginnote Info: right page because not two side mode on input line 229
 .
@@ -1169,7 +1171,7 @@ Package marginnote Info: Margin note 8.16 is on absolute page 8 on input line 2
 Package marginnote Info: right page because not two side mode on input line 249
 .
 Package marginnote Info: xpos seems to be 100.01144pt on input line 249.
-Package marginnote Info: Margin note 8.17 is on absolute page 8 on input line 2
+Package marginnote Info: Margin note 8.17 is on absolute page 9 on input line 2
 52.
 Package marginnote Info: right page because not two side mode on input line 252
 .
@@ -1223,10 +1225,6 @@ ssociation International (NARSC), Pitts-
 LaTeX2e <2023-11-01>
 L3 programming layer <2023-12-11>
  ***********
-
-
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
-
 Package rerunfilecheck Info: File `CV_Yin.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
