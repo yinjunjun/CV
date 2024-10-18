@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999995 (MiKTeX 23.12) (preloaded format=xelatex 2023.12.31)  1 SEP 2024 00:24
+This is XeTeX, Version 3.141592653-2.6-0.999995 (MiKTeX 23.12) (preloaded format=xelatex 2023.12.31)  18 OCT 2024 14:19
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -812,7 +812,7 @@ Package marginnote Info: Margin note 3.21 is on absolute page 4 on input line 1
 Package marginnote Info: right page because not two side mode on input line 177
 .
 Package marginnote Info: xpos seems to be 100.01144pt on input line 177.
-Package marginnote Info: Margin note 3.22 is on absolute page 4 on input line 1
+Package marginnote Info: Margin note 3.22 is on absolute page 5 on input line 1
 78.
 Package marginnote Info: right page because not two side mode on input line 178
 .
@@ -857,27 +857,6 @@ Package marginnote Info: Margin note 3.30 is on absolute page 5 on input line 1
 Package marginnote Info: right page because not two side mode on input line 186
 .
 Package marginnote Info: xpos seems to be 100.01144pt on input line 186.
-
-Overfull \hbox (33.15544pt too wide) in paragraph at lines 161--187
-\TU/LinLibertine_R.otf(0)/m/n/10.95 with geographic-context aware social media 
-data. \TU/LinLibertine_R.otf(0)/m/it/10.95 Urban Informatics, 1(1), 20 \TU/LinL
-ibertine_R.otf(0)/m/n/10.95 (DOI:10.1007/s44212-
- []
-
-
-Overfull \hbox (73.70694pt too wide) in paragraph at lines 161--187
-\TU/LinLibertine_R.otf(0)/m/n/10.95 learning, and big human mobility data. \TU/
-LinLibertine_R.otf(0)/m/it/10.95 Frontiers in Environmental Science \TU/LinLibe
-rtine_R.otf(0)/m/n/10.95 (DOI:10.3389/fenvs.2023.1223160) 
- []
-
-
-Overfull \hbox (73.60835pt too wide) in paragraph at lines 161--187
-\TU/LinLibertine_R.otf(0)/m/n/10.95 dence from geolocated Twitter data analysis
-. \TU/LinLibertine_R.otf(0)/m/it/10.95 Journal of Urban Design \TU/LinLibertine
-_R.otf(0)/m/n/10.95 (DOI: 10.1080/13574809.2022.2118698) 
- []
-
 
 Overfull \hbox (6.1381pt too wide) in paragraph at lines 161--187
 \TU/LinLibertine_R.otf(0)/m/n/10.95 Spatial Vector Data Model for Column-orient
@@ -1149,7 +1128,7 @@ Package marginnote Info: Margin note 8.10 is on absolute page 8 on input line 2
 Package marginnote Info: right page because not two side mode on input line 248
 .
 Package marginnote Info: xpos seems to be 100.01144pt on input line 248.
-Package marginnote Info: Margin note 8.11 is on absolute page 8 on input line 2
+Package marginnote Info: Margin note 8.11 is on absolute page 9 on input line 2
 49.
 Package marginnote Info: right page because not two side mode on input line 249
 .
@@ -1273,20 +1252,16 @@ ssociation International (NARSC), Pitts-
 LaTeX2e <2023-11-01>
 L3 programming layer <2023-12-11>
  ***********
-
-
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
-
 Package rerunfilecheck Info: File `CV_Yin.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
  16016 strings out of 409626
  299284 string characters out of 5774801
- 1953109 words of memory out of 5000000
+ 1954109 words of memory out of 5000000
  37938 multiletter control sequences out of 15000+600000
  562117 words of font info for 74 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 79i,9n,102p,416b,396s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 79i,9n,102p,416b,394s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
 Output written on CV_Yin.pdf (11 pages).
